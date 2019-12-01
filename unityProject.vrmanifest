@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cyclefreakz.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\User\\nick\\cps643-labs\\Cyclefreakz\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Cyclefreakz [Testing]"
+        }
+      }
+    }
+  ]
+}
